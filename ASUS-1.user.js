@@ -11,7 +11,7 @@
 // @icon            https://scriptcat.org/api/v2/resource/image/duygQktL5QjWtkLc
 // @include         http://10.*.*.*
 // @include         http://192.168.*.*
-// @include         http://172.16.*
+// @include         http://172.16.* 
 // @include         https://10.*.*.*
 // @include         https://192.168.*.*
 // @match           *://*.asusrouter.com/*
